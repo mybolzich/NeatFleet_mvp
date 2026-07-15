@@ -1,5 +1,7 @@
 node_modules/
 .next/
+.vinext/
+dist/
 .npm-cache/
 coverage/
 .env*
